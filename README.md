@@ -41,6 +41,8 @@ Run the program using the following command:
 ./ray_tracing_prj
 ```
 
+Configuration is written in main file. To change the scene, camera settings, and output preferences modify main.cpp file.
+
 ## Examples
 <div align="center">
     <img src="https://github.com/Neamen1/Ray-tracing-prj/blob/main/some%20result%20pictures/cube2.png" alt="Cube" width="500"/>
